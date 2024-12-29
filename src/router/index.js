@@ -40,7 +40,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + ' - Afif Eka Saputra'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + ' - Aaron Aksa'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
   next();
 });
 

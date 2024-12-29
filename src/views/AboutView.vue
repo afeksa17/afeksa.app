@@ -7,43 +7,43 @@ export default {
         {
           id: 5,
           name: 'Visual Effect',
-          imageUrl: 'https://i.ibb.co/sgTNDNL/clapperboard.png',
+          imageUrl: 'https://i.ibb.co.com/QNrWr59/clapperboard.png',
           status: 'Advance'
         },
         {
           id: 6,
           name: 'Animation',
-          imageUrl: 'https://i.ibb.co/9yS7zsH/3d-movie.png',
+          imageUrl: 'https://i.ibb.co.com/XkLPnDw/3d-movie.png',
           status: 'Advance'
         },
         {
           id: 13,
           name: 'Motion Graphic',
-          imageUrl: 'https://i.ibb.co/qxXF1wj/motion-graphic.png',
+          imageUrl: 'https://i.ibb.co.com/Nt2xtBq/motion-graphic.png',
           status: 'Advance'
         },
         {
           id: 7,
           name: 'Graphic Design',
-          imageUrl: 'https://i.ibb.co/R76Q3QG/illustration.png',
+          imageUrl: 'https://i.ibb.co.com/ygJsxh2/illustration.png',
           status: 'Advance'
         },
         {
           id: 8,
           name: 'Video Editing',
-          imageUrl: 'https://i.ibb.co/WKQ9x0X/video.png',
+          imageUrl: 'https://i.ibb.co.com/RvJ5KC9/video.png',
           status: 'Advance'
         },
         {
           id: 9,
           name: 'Product Ads',
-          imageUrl: 'https://i.ibb.co/WKQ9x0X/video.png',
+          imageUrl: 'https://i.ibb.co.com/GkQm1x3/social-media.png',
           status: 'Advance'
         },
         {
           id: 10,
           name: 'Videography',
-          imageUrl: 'https://i.ibb.co/qFdQmWp/camera.png',
+          imageUrl: 'https://i.ibb.co.com/nzYVDM6/camera.png',
           status: 'Advance'
         },
         {
@@ -55,7 +55,7 @@ export default {
         {
           id: 12,
           name: 'Filmmaking',
-          imageUrl: 'https://i.ibb.co/pJX6G1v/video-camera.png',
+          imageUrl: 'https://i.ibb.co.com/p0rLtxN/video-camera.png',
           status: 'Intermediate'
         },
         {
@@ -87,73 +87,73 @@ export default {
         {
           id: 1,
           name: 'Illustrator',
-          imageUrl: 'https://i.ibb.co/dLPX8Fn/illustrator.png',
+          imageUrl: 'https://i.ibb.co.com/t257M2H/illustrator.png',
           status: '2D Animation'
         },
         {
           id: 2,
           name: 'Adobe',
-          imageUrl: 'https://i.ibb.co/68T3PrR/icons8-adobe-64.png',
+          imageUrl: 'https://i.ibb.co.com/JzYqxqz/adobe-icon-512x512-mmjkitkd.png',
           status: 'All Adobe'
         },
         {
           id: 3,
           name: 'Davinci',
-          imageUrl: 'https://i.ibb.co/R9fCyKr/icons8-davinci-resolve-100.png',
+          imageUrl: 'https://i.ibb.co.com/bdsJKMj/Da-Vinci-Resolve-Studio.png',
           status: 'Video Editing'
         },
         {
           id: 4,
-          name: 'D. Marketing',
-          imageUrl: 'https://i.ibb.co/qdgfg7g/social-media.png',
-          status: 'Social Media'
+          name: 'Autodesk',
+          imageUrl: 'https://i.ibb.co.com/pzwGXzv/autodesk-icon-2048x1901-2nga9szt.png',
+          status: '3D Animation'
         },
         {
           id: 5,
           name: 'Blender',
-          imageUrl: 'https://i.ibb.co/y4JJwMG/icons8-blender-512.png',
+          imageUrl: 'https://i.ibb.co.com/1bLLPMb/icons8-blender-512.png',
           status: '3D Animation'
         },
         {
           id: 6,
           name: 'Premiere Pro',
-          imageUrl: 'https://i.ibb.co/zF98PqQ/premiere-pro.png',
+          imageUrl: 'https://i.ibb.co.com/vqfp8qB/premiere-pro.png',
           status: 'Video Editing'
         },
         {
           id: 7,
           name: 'After Effect',
-          imageUrl: 'https://i.ibb.co/9HZXfPR/after-effects.png',
+          imageUrl: 'https://i.ibb.co.com/Y8CPpHr/after-effects.png',
           status: 'Visual Effect'
         },
         {
           id: 8,
           name: 'XD',
-          imageUrl: 'https://i.ibb.co/sWH1ntL/xd.png',
+          imageUrl: 'https://i.ibb.co.com/QrJtHDT/xd.png',
           status: 'Web Design'
         },
         {
           id: 9,
           name: 'VS Code',
-          imageUrl: 'https://i.ibb.co/WtDPcB1/icons8-visual-studio-code-2019-512.png',
+          imageUrl: 'https://i.ibb.co.com/hm6WLZB/Visual-Studio-Code-1-35-icon-svg.png',
           status: 'Coding'
         },
         {
           id: 10,
           name: 'Photoshop',
-          imageUrl: 'https://i.ibb.co/jhh7YYS/photoshop.png',
+          imageUrl: 'https://i.ibb.co.com/2Kmtc0j/photoshop.png',
           status: 'Editing Photo'
         },
         {
           id: 11,
           name: 'In Design',
-          imageUrl: 'https://i.ibb.co/qrTtQ5d/indesign.png',
+          imageUrl: 'https://i.ibb.co.com/FB6Qbt5/indesign.png',
           status: 'Design'
         },
         {
           id: 12,
           name: 'Lightroom',
-          imageUrl: 'https://i.ibb.co/QJp0tSw/photoshop-lightroom.png',
+          imageUrl: 'https://i.ibb.co.com/852kZ8Y/photoshop-lightroom.png',
           status: 'Color Grading'
         },
         {
@@ -187,13 +187,13 @@ export default {
 </script>
 <template>
   <div
-    class="bg-[#1e1e1f] px-5 py-5 md:px-12 md:py-10 text-left border border-[#383838] rounded-3xl text-amber-50 mx-3 mb-5">
+    class="bg-[#1e1e1f] px-5 py-5 md:px-12 md:py-10 text-left border border-[#383838] rounded-3xl text-blue-50 mx-3 mb-5">
     <article data-page="about">
 
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           About Me &nbsp;
-          <div class="h-[1px] w-32 bg-amber-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
+          <div class="h-[1px] w-32 bg-blue-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
         </div>
       </header>
@@ -202,13 +202,13 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i.ibb.co/Snzyk8Q/Yoo.jpg" alt="Foto">
+            src="https://i.ibb.co.com/NKvqXKr/Yoo.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Afif Eka Saputra. I'm a Multimedia Profesional. I
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Aaron Aksa. I'm a Multimedia Profesional. I
             have 6 year of experience in Multimedia.
-            I really enjoy what I do right now, in my opinion, cMultimedia work is not only a job, but also an art
+            I really enjoy what I do right now, in my opinion, Multimedia work is not only a job, but also an art
             art is an explosion
           </p>
           <p class="mb-3 fadein-left fadeins-2">
@@ -225,11 +225,11 @@ export default {
     </article>
   </div>
 
-  <div class="px-5 py-5 md:px-12 md:py-10 text-left text-amber-50 mx-3">
+  <div class="px-5 py-5 md:px-12 md:py-10 text-left text-blue-50 mx-3">
     <article data-page="about">
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
-          <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate" data-aos="zoom-in-left"
+          <div class="h-[1px] w-10 bg-blue-200 md:w-20 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
           &nbsp; Skills
         </div>
@@ -239,11 +239,11 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech Stack</button>
+                :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Tech Stack</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
+                :class="{ 'text-blue-200 bg-blue-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
             </li>
           </ul>
         </div>
@@ -251,7 +251,7 @@ export default {
           <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
             <div v-for="item in tech" :key="item.id">
               <div
-                class="item-tech flex cursor-pointer items-center gap-2 rounded border border-amber-200 px-2 py-2 hover:bg-amber-200 hover:bg-opacity-10 md:gap-3 lg:px-3">
+                class="item-tech flex cursor-pointer items-center gap-2 rounded border border-blue-200 px-2 py-2 hover:bg-blue-200 hover:bg-opacity-10 md:gap-3 lg:px-3">
                 <div class="flex h-12 w-12 items-center justify-center p-0 lg:h-16 lg:w-16 lg:p-2 zoom-in">
                   <img alt="HTML" loading="lazy" width="32" height="32" decoding="async" data-nimg="1"
                     class="img-tech drop-shadow-xl transition-all duration-300 h-[65%] w-[65%] lg:h-[85%] lg:w-[85%]  "
@@ -261,7 +261,7 @@ export default {
                   <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name }}
                   </div>
                   <div
-                    class="status-tech opacity-0 absolute mt-5 text-[10px] text-amber-200 transition-all duration-300 md:text-xs lg:text-sm">
+                    class="status-tech opacity-0 absolute mt-5 text-[10px] text-blue-200 transition-all duration-300 md:text-xs lg:text-sm">
                     {{ item.status }}</div>
                 </div>
               </div>
@@ -272,7 +272,7 @@ export default {
           <div class="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12">
             <div v-for="item in tools" :key="item.id">
               <div
-                class="item-tech flex cursor-pointer items-center gap-2 rounded border border-amber-200 px-2 py-2 hover:bg-amber-200 hover:bg-opacity-10 md:gap-3 lg:px-3">
+                class="item-tech flex cursor-pointer items-center gap-2 rounded border border-blue-200 px-2 py-2 hover:bg-blue-200 hover:bg-opacity-10 md:gap-3 lg:px-3">
                 <div class="flex h-12 w-12 items-center justify-center p-0 lg:h-16 lg:w-16 lg:p-2 zoom-in">
                   <img alt="HTML" loading="lazy" width="32" height="32" decoding="async" data-nimg="1"
                     class="img-tech drop-shadow-xl transition-all duration-300 h-[65%] w-[65%] lg:h-[85%] lg:w-[85%]  "
@@ -282,7 +282,7 @@ export default {
                   <div class="tech font-medium text-secondary transition-all duration-300 translate-y-0 ">{{ item.name }}
                   </div>
                   <div
-                    class="status-tech opacity-0 absolute mt-5 text-[10px] text-amber-200 transition-all duration-300 md:text-xs lg:text-sm">
+                    class="status-tech opacity-0 absolute mt-5 text-[10px] text-blue-200 transition-all duration-300 md:text-xs lg:text-sm">
                     {{ item.status }}</div>
                 </div>
               </div>

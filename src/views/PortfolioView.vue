@@ -15,7 +15,7 @@ export default {
         },
         {
           id: 13,
-          name: 'Motion Graphic',
+          name: 'Media Portfolio',
           imageUrl: 'motiongraphic',
           status: 'Create visual effects and motion graphics for a video highlight for an esports film',
           tech: 'Adobe After Effect, Adobe Premiere, ',
@@ -26,7 +26,7 @@ export default {
           id: 2,
           name: 'DailyAct',
           imageUrl: 'DailyAct',
-          status: 'Worked as a designer and front end developer at a company PT Amber Media Social, To create interesting social media applications.',
+          status: 'Worked as a designer and front end developer at a company PT blue Media Social, To create interesting social media applications.',
           tech: 'JavaScript, Adobe XD, Photoshop',
           github: 'null',
           demo: 'https://twitter.com/DailyactID'
@@ -38,7 +38,7 @@ export default {
           status: 'Company operating in the food ingredients sector, I am a web developer and content creator for this company.',
           tech: 'JavaScript, Photoshop',
           github: 'null',
-          demo: 'https://www.linkedin.com/company/pt-sumber-rasa-nusantara-industri/about/'
+          demo: 'https://drive.google.com/drive/u/0/folders/1q__S4Qnp7W1DRLQUPgDQLZlmwcOgf4xJ'
         },
         {
           id: 4,
@@ -47,7 +47,7 @@ export default {
           status: 'Making designs for clothes at the Jakcloth company, a company that sells clothing.',
           tech: 'Photoshop, Illustrator',
           github: 'null',
-          demo: 'https://jakcloth.id/'
+          demo: 'https://jakcloth.co.id/'
         },
         {
           id: 5,
@@ -60,8 +60,8 @@ export default {
         },
         {
           id: 6,
-          name: 'Hadi Kitchen',
-          imageUrl: 'hadi',
+          name: 'Flimty',
+          imageUrl: 'flimty',
           status: 'Shooting and editing videos, Nutrillicious is in the Hadi group too',
           tech: 'Premiere Pro, After Effect',
           github: 'null',
@@ -92,7 +92,7 @@ export default {
           status: 'Rough cut editing and online editing for 21 episode films.',
           tech: 'Premiere Pro, After Effect, Davinci Resolve',
           github: 'null',
-          demo: 'https://www.instagram.com/nutrilicious.katering/'
+          demo: 'https://www.instagram.com/altertv.official/'
         },
         {
           id: 10,
@@ -127,14 +127,14 @@ export default {
 }
 </script>
 <template>
-  <div class="px-5 py-5 md:px-12 md:py-10 text-left text-amber-50 mx-3">
+  <div class="px-5 py-5 md:px-12 md:py-10 text-left text-blue-50 mx-3">
     <article data-page="about">
       <header>
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
-          <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
+          <!-- <div class="h-[1px] w-10 bg-blue-200 md:w-20 aos-init aos-animate"></div> -->
           <h4>Past Project Experience</h4>
-          <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
+          <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-blue-300">
             Explore the projects I've worked on so far</h4>
         </div>
       </header>
@@ -143,7 +143,7 @@ export default {
           <div class="grid grid-cols-1 gap-4 pb-32 md:grid-cols-3 md:gap-3 xl:grid-cols-3 xl:gap-3 2xl:gap-5 fade-zoom-in">
             <div v-for="item in items" :key="item.id">
               <div
-                class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
+                class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-blue-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                   <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded rounded-xl"
                     :src="'/img/portfolio-' + item.imageUrl + '.png'">
@@ -153,7 +153,7 @@ export default {
                   </div>
                   <div class="w-full text-left text-[10px] text-[#c1c1c1] md:text-xs lg:text-sm">
                     {{ item.status }}</div>
-                  <div class="w-full mt-4 text-normal text-sm text-left text-amber-200">
+                  <div class="w-full mt-4 text-normal text-sm text-left text-blue-200">
                     {{ item.tech }}
                   </div>
                   <div class="w-full flex justify-end">
@@ -193,7 +193,7 @@ export default {
   transform: translateY(-8px);
 }
 svg:hover{
-  stroke: #ffdb70;
+  stroke: #46c6d3;
 }
 @keyframes fadeZoomIn {
   0% {
