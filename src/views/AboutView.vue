@@ -67,46 +67,10 @@ export default {
       ],
       tools: [
         {
-          id: 1,
-          name: 'Illustrator',
-          imageUrl: 'https://i.ibb.co.com/t257M2H/illustrator.png',
-          status: '2D Animation'
-        },
-        {
-          id: 2,
-          name: 'Adobe',
-          imageUrl: 'https://i.ibb.co.com/JzYqxqz/adobe-icon-512x512-mmjkitkd.png',
-          status: 'All Adobe'
-        },
-        {
-          id: 3,
-          name: 'Davinci',
-          imageUrl: 'https://i.ibb.co.com/bdsJKMj/Da-Vinci-Resolve-Studio.png',
-          status: 'Video Editing'
-        },
-        {
-          id: 4,
-          name: 'Autodesk',
-          imageUrl: 'https://i.ibb.co.com/pzwGXzv/autodesk-icon-2048x1901-2nga9szt.png',
-          status: '3D Animation'
-        },
-        {
-          id: 5,
-          name: 'Blender',
-          imageUrl: 'https://i.ibb.co.com/1bLLPMb/icons8-blender-512.png',
-          status: '3D Animation'
-        },
-        {
-          id: 6,
-          name: 'Premiere Pro',
-          imageUrl: 'https://i.ibb.co.com/vqfp8qB/premiere-pro.png',
-          status: 'Video Editing'
-        },
-        {
           id: 7,
-          name: 'After Effect',
-          imageUrl: 'https://i.ibb.co.com/Y8CPpHr/after-effects.png',
-          status: 'Visual Effect'
+          name: 'DOCKER',
+          imageUrl: 'https://i.ibb.co.com/bRCVMhg1/images.png',
+          status: 'Platform'
         },
         {
           id: 8,
@@ -119,24 +83,6 @@ export default {
           name: 'VS Code',
           imageUrl: 'https://i.ibb.co.com/hm6WLZB/Visual-Studio-Code-1-35-icon-svg.png',
           status: 'Coding'
-        },
-        {
-          id: 10,
-          name: 'Photoshop',
-          imageUrl: 'https://i.ibb.co.com/2Kmtc0j/photoshop.png',
-          status: 'Editing Photo'
-        },
-        {
-          id: 11,
-          name: 'In Design',
-          imageUrl: 'https://i.ibb.co.com/FB6Qbt5/indesign.png',
-          status: 'Design'
-        },
-        {
-          id: 12,
-          name: 'Lightroom',
-          imageUrl: 'https://i.ibb.co.com/852kZ8Y/photoshop-lightroom.png',
-          status: 'Color Grading'
         },
         {
           id: 12,
