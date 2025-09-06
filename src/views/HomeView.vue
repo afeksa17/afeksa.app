@@ -25,7 +25,7 @@
             d="M14.25 5.25a5.23 5.23 0 00-1.279-3.434 9.768 9.768 0 016.963 6.963A5.23 5.23 0 0016.5 7.5h-1.875a.375.375 0 01-.375-.375V5.25z">
           </path>
         </a>
-        </svg><a href="https://drive.google.com/file/d/1tJZ_MK7b9AFOidJC_8VWYwyJzIyUGwSC/view?usp=drive_link">Download Resume</a></button>
+        </svg><a href="https://drive.google.com/file/d/1sRFh6ShUB4RfuPb6ucna1WQ13mXqZNiP/view?usp=sharing">Download Resume</a></button>
 
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
@@ -39,7 +39,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["Web Developer", "Video Editor", "Graphic Design", "2D & 3D Animation"],
+      toRotate: ["Web Developer", "Software Egineer", "FullStack Developer"],
       period: 1000,
       txt: 'Skill',  
       loopNum: 5,
