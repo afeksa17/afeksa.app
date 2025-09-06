@@ -14,15 +14,6 @@ export default {
           demo: 'null'
         },
         {
-          id: 13,
-          name: 'Media Portfolio',
-          imageUrl: 'motiongraphic',
-          status: 'Create visual effects and motion graphics for a video highlight for an esports film',
-          tech: 'Adobe After Effect, Adobe Premiere, ',
-          github: 'null',
-          demo: 'https://drive.google.com/drive/folders/1nKKqN3jqz6z45CCgVDs2vbQ5IJtId2qe?usp=sharing'
-        },
-        {
           id: 2,
           name: 'DailyAct',
           imageUrl: 'DailyAct',
@@ -39,78 +30,6 @@ export default {
           tech: 'JavaScript, Photoshop',
           github: 'null',
           demo: 'https://drive.google.com/drive/u/0/folders/1q__S4Qnp7W1DRLQUPgDQLZlmwcOgf4xJ'
-        },
-        {
-          id: 4,
-          name: 'JakCloth',
-          imageUrl: 'folder',
-          status: 'Making designs for clothes at the Jakcloth company, a company that sells clothing.',
-          tech: 'Photoshop, Illustrator',
-          github: 'null',
-          demo: 'https://jakcloth.co.id/'
-        },
-        {
-          id: 5,
-          name: 'Nutrilicious',
-          imageUrl: 'nutri',
-          status: 'Shooting and editing videos for Nutrilicious Instagram and creating designs for Instagram.',
-          tech: 'Premiere Pro, After Effect, Photoshop',
-          github: 'null',
-          demo: 'https://www.instagram.com/nutrilicious.katering/'
-        },
-        {
-          id: 6,
-          name: 'Flimty',
-          imageUrl: 'flimty',
-          status: 'Shooting and editing videos, Nutrillicious is in the Hadi group too',
-          tech: 'Premiere Pro, After Effect',
-          github: 'null',
-          demo: 'https://www.instagram.com/hadikitchen_id/'
-        },
-        {
-          id: 7,
-          name: 'Honest Beauty',
-          imageUrl: 'Honest',
-          status: 'Doing photos for Honest Beauty products,',
-          tech: 'Sony A7 Mark III',
-          github: 'null',
-          demo: 'https://www.honest.com/beauty-products/view-all-beauty'
-        },
-        {
-          id: 8,
-          name: 'Imoki',
-          imageUrl: 'Imoki',
-          status: 'Take product photos and several designs to upload on Instagram',
-          tech: 'Cannon 1D',
-          github: 'null',
-          demo: 'https://www.instagram.com/imokicoffee/'
-        },
-        {
-          id: 9,
-          name: 'Alter Ego X Detikcom',
-          imageUrl: 'Esport',
-          status: 'Rough cut editing and online editing for 21 episode films.',
-          tech: 'Premiere Pro, After Effect, Davinci Resolve',
-          github: 'null',
-          demo: 'https://www.instagram.com/altertv.official/'
-        },
-        {
-          id: 10,
-          name: 'Instagram',
-          imageUrl: 'instagram2',
-          status: 'I have uploaded several posts on social media, but I dont upload them too regularly on Instagram',
-          tech: 'Social Media',
-          github: 'null',
-          demo: 'https://www.instagram.com/afeksa_/'
-        },
-        {
-          id: 11,
-          name: 'Tiktok',
-          imageUrl: 'tiktok',
-          status: 'I just uploaded an editing video about the Valorant game on TikTok.',
-          tech: 'Social Media',
-          github: 'null',
-          demo: 'https://www.tiktok.com/@afeksa17',
         },
         {
           id: 12,
