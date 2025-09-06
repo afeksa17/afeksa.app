@@ -5,57 +5,39 @@ export default {
       activeTab: 1,
       tech: [
         {
-          id: 5,
-          name: 'Visual Effect',
-          imageUrl: 'https://i.ibb.co.com/QNrWr59/clapperboard.png',
-          status: 'Advance'
+          id: 16,
+          name: 'API',
+          imageUrl: 'https://i.ibb.co.com/1fJ9Rc7H/hand-drawn-api-illustration.png',
+          status: 'Intermediate'
         },
         {
-          id: 6,
-          name: 'Animation',
-          imageUrl: 'https://i.ibb.co.com/XkLPnDw/3d-movie.png',
-          status: 'Advance'
+          id: 15,
+          name: 'AWS',
+          imageUrl: 'https://i.ibb.co.com/x0wYgQX/images-3.png',
+          status: 'Intermediate'
+        },
+        {
+          id: 14,
+          name: 'Git & GitHub',
+          imageUrl: 'https://i.ibb.co.com/rRcY93Wz/scalable-vector-graphics-github-computer-icons-logo-computer-file-png-favpng-GRYRADb-E9437-Sk-Thu9h.jpg',
+          status: 'Intermediate'
         },
         {
           id: 13,
-          name: 'Motion Graphic',
-          imageUrl: 'https://i.ibb.co.com/Nt2xtBq/motion-graphic.png',
-          status: 'Advance'
+          name: 'Python',
+          imageUrl: 'https://i.ibb.co.com/My0pp1dX/Python-logo-notext-svg.png',
+          status: 'Intermediate'
         },
         {
-          id: 7,
-          name: 'Graphic Design',
-          imageUrl: 'https://i.ibb.co.com/ygJsxh2/illustration.png',
-          status: 'Advance'
-        },
-        {
-          id: 8,
-          name: 'Video Editing',
-          imageUrl: 'https://i.ibb.co.com/RvJ5KC9/video.png',
-          status: 'Advance'
-        },
-        {
-          id: 9,
-          name: 'Product Ads',
-          imageUrl: 'https://i.ibb.co.com/GkQm1x3/social-media.png',
-          status: 'Advance'
-        },
-        {
-          id: 10,
-          name: 'Videography',
-          imageUrl: 'https://i.ibb.co.com/nzYVDM6/camera.png',
-          status: 'Advance'
+          id: 12,
+          name: 'SQL',
+          imageUrl: 'https://i.ibb.co.com/99s7Dsm3/images-2.png',
+          status: 'Intermediate'
         },
         {
           id: 11,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
-          status: 'Intermediate'
-        },
-        {
-          id: 12,
-          name: 'Filmmaking',
-          imageUrl: 'https://i.ibb.co.com/p0rLtxN/video-camera.png',
           status: 'Intermediate'
         },
         {
@@ -206,17 +188,10 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Aaron Aksa. I'm a Multimedia Profesional. I
-            have 6 year of experience in Multimedia.
-            I really enjoy what I do right now, in my opinion, Multimedia work is not only a job, but also an art
-            art is an explosion
+            &nbsp; &nbsp; &nbsp; I am a Software Engineer with over 6 years of experience in designing, developing, and deploying scalable and efficient software solutions. For me, software engineering is not just about writing code—it is about solving real-world problems, building reliable systems, and delivering impactful technology that makes life easier.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My duties are Video Editing, Visual Effects, Logo Creation, Website Design, Website Creation, Product Design, Product Advertisement Creation, and Animation Modeling.
-            Additionally, I add a personal touch to your product and ensure that it is eye-catching and attractive
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            Please contact the contact listed.
+            &nbsp; &nbsp; &nbsp; I specialize in Fullstack Development, System Design, API Development (REST & GraphQL), Database Management (SQL & NoSQL), and Cloud Deployment. I bring strong problem-solving skills and a product-oriented mindset to every project, ensuring that the results are not only robust and efficient but also user-friendly and maintainable.
           </p>
         </div>
 
