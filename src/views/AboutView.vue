@@ -20,13 +20,13 @@ export default {
           id: 14,
           name: 'Git & GitHub',
           imageUrl: 'https://i.ibb.co.com/rRcY93Wz/scalable-vector-graphics-github-computer-icons-logo-computer-file-png-favpng-GRYRADb-E9437-Sk-Thu9h.jpg',
-          status: 'Intermediate'
+          status: 'Advanced'
         },
         {
           id: 13,
           name: 'Python',
           imageUrl: 'https://i.ibb.co.com/My0pp1dX/Python-logo-notext-svg.png',
-          status: 'Intermediate'
+          status: 'Advanced'
         },
         {
           id: 12,
